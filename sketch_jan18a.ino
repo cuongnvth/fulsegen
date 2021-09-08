@@ -1,4 +1,5 @@
-
+//ESP-12E 
+//NodeMCU 1.0/160Mhz
 //#include<SoftwareSerial.h> //Included SoftwareSerial Library
 //Started SoftwareSerial at RX and TX pin of ESP8266/NodeMCU
 //SoftwareSerial s(D7, D8);
